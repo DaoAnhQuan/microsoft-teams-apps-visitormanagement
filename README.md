@@ -1,10 +1,4 @@
-## U-GAT-IT &mdash; Official TensorFlow Implementation (ICLR 2020)
-### : Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
 
-<div align="center">
-  <img src="./assets/teaser.png">
-</div>
-## Mon Quan Ly Du An
 ---
 page_type: sample
 products:
@@ -16,7 +10,7 @@ description: Power Apps solution that enables organizations to efficiently manag
 urlFragment: microsoft-teams-app-visitormanagement
 ---
 
-# Visitor Management App Template
+# Visitor Management App
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-app-visitormanagement/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-app-visitormanagement/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-app-visitormanagement/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
